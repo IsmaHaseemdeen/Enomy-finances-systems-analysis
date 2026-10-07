@@ -50,3 +50,23 @@ This project demonstrates experience in:
 - Requirements traceability
 - Solution evaluation
 - Technical documentation
+
+## Project Documentation
+
+Explore the project by section:
+
+- [01 - Project Scope](./01-project-scope/)
+- [02 - System Investigation](./02-system-investigation/)
+- [03 - SDLC Analysis](./03-sdlc-analysis/)
+- [04 - Feasibility Study](./04-feasibility-study/)
+- [05 - System Design](./05-system-design/)
+- [06 - Wireframes](./06-wireframes/)
+- [07 - Interface Designs](./07-interface-designs/)
+- [08 - Design Review & Feedback](./08-design-review/)
+- [09 - Final Evaluation](./09-evaluation/)
+
+## Full Report
+
+The complete project report is available here:
+
+[View Enomy-Finances Systems Analysis Report](./Enomy-Finances-Systems-Analysis-Report.pdf)
