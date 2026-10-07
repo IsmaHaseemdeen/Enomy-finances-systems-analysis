@@ -1,5 +1,11 @@
 # Enomy-Finances Systems Analysis & SDLC Case Study
 
+## Enomy-Finances Systems Analysis Portfolio
+
+**Focus:** Systems Analysis • SDLC Planning • Feasibility Analysis • UML Modelling • Wireframing • Interface Design • Risk Management • Solution Evaluation
+
+This repository presents a complete systems analysis and design case study for the Enomy-Finances project, demonstrating the planning and analytical work carried out across the Software Development Life Cycle.
+
 A comprehensive systems analysis and project planning case study for a financial services platform designed to support currency conversion, savings and investment services, client data management, and administrative operations.
 
 ## Project Type
