@@ -19,3 +19,17 @@ Key areas covered include:
 - Future recommendations
 
 The evaluation reflects on the strengths of the proposed solution, identifies areas for improvement, and considers how the system could be enhanced in future development stages.
+
+## Project Outcome
+
+The Enomy-Finances project demonstrates a complete systems analysis and design process, from identifying business needs and gathering requirements through feasibility analysis, SDLC selection, modelling, wireframing, interface design, feedback review, and final evaluation.
+
+The project highlights the ability to:
+
+- Analyse a business problem and define system requirements
+- Compare and select an appropriate SDLC approach
+- Evaluate feasibility and project risks
+- Model system behaviour, processes, and data
+- Translate requirements into wireframes and interface designs
+- Review and refine designs using stakeholder feedback
+- Consider security, maintainability, quality, and future improvements
