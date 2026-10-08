@@ -14,6 +14,14 @@ Systems Analysis | SDLC Planning | Requirements Engineering | Feasibility Analys
 
 > This repository focuses on the planning, analysis, modelling, and design stages of the Software Development Life Cycle rather than source-code implementation.
 
+## Project Status
+
+**Status:** Completed
+
+This repository documents the completed analysis, planning, modelling, wireframing, interface design, review, and evaluation stages of the Enomy-Finances project.
+
+The focus of this repository is on systems analysis and project planning rather than source-code implementation.
+
 ## Project Overview
 
 Enomy-Finances is a financial services organisation that provides services related to mortgages, savings, investments, budgeting, and financial planning.
