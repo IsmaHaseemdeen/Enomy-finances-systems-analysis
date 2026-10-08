@@ -51,6 +51,29 @@ My responsibilities included:
 - Assessing requirements traceability and future improvements
 - Producing comprehensive project documentation
 
+## Key Deliverables
+
+The project produced the following analysis and design deliverables:
+
+- Project scope and objectives
+- User and system requirements
+- System investigation analysis
+- SDLC model comparison and selection
+- Feasibility study
+- Risk analysis and mitigation strategies
+- Use Case Diagrams
+- Activity Diagrams
+- Data Flow Diagrams
+- Finite State Machine and Extended FSM
+- Entity Relationship Diagram
+- Wireframes
+- Role-based interface designs
+- Design feedback and refinement
+- Security and maintainability evaluation
+- Requirements traceability
+- Final solution evaluation
+- Future recommendations
+  
 ## Skills Demonstrated
 
 This project demonstrates experience in:
