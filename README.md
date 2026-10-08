@@ -57,6 +57,28 @@ This project demonstrates experience in:
 - Solution evaluation
 - Technical documentation
 
+## Project Highlights
+
+### System Modelling
+
+#### Use Case Diagram
+![Enomy-Finances Use Case Diagram](./05-system-design/enomy-finances-use-case-diagram.png)
+
+#### Data Flow Diagram
+![Enomy-Finances Level 1 DFD](./05-system-design/dfd-level-1.png)
+
+#### Entity Relationship Diagram
+![Enomy-Finances ERD](./05-system-design/erd-enomy-finances.png)
+
+### Wireframing
+
+![Enomy-Finances Login Wireframe](./06-wireframes/wireframe-login.png)
+
+### Interface Design
+
+![Enomy-Finances Client Homepage](./07-interface-designs/client-homepage.png)
+
+
 ## Project Documentation
 
 Explore the project by section:
