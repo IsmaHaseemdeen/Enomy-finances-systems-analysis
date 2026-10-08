@@ -31,6 +31,26 @@ The proposed system includes:
 - Web-based accessibility
 - Financial data presentation through textual, numerical, and graphical formats
 
+## My Role & Responsibilities
+
+For this project, I carried out the systems analysis, planning, and design activities required to investigate and propose a solution for the Enomy-Finances system.
+
+My responsibilities included:
+
+- Defining the project scope and objectives
+- Identifying business, user, and system requirements
+- Evaluating system investigation methods
+- Comparing SDLC models and selecting an appropriate approach
+- Conducting feasibility analysis
+- Identifying project risks and mitigation strategies
+- Creating UML and behavioural system models
+- Producing Data Flow Diagrams and Entity Relationship Diagrams
+- Designing wireframes and role-based user interfaces
+- Reviewing feedback and refining the proposed designs
+- Evaluating security, maintainability, and software quality considerations
+- Assessing requirements traceability and future improvements
+- Producing comprehensive project documentation
+
 ## Skills Demonstrated
 
 This project demonstrates experience in:
